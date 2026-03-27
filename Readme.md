@@ -14,7 +14,7 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
- 
+
 ---
 
 ### Output Pulse Broadening
@@ -62,7 +62,30 @@ Place and connect the following components:
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
+---
+<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
 ---
- Results to Record
-<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+## BLOCK DIAGRAM
+<img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/86f05a71-e3d6-4bc7-97c6-7d7e3bc2513c" />
+
+
+## Calaculation
+
+<img width="1304" height="1093" alt="image" src="https://github.com/user-attachments/assets/83a771ec-104d-4b42-a382-98dbddc3c5d9" />
+
+<img width="1367" height="1504" alt="image" src="https://github.com/user-attachments/assets/37119dee-9943-4f1a-81bc-eaaa952fbb2b" />
+
+
+---
+
+## Output
+<img width="1205" height="702" alt="image" src="https://github.com/user-attachments/assets/39d69911-477d-4bb0-9273-d5b890410fb6" />
+<img width="1920" height="1002" alt="image" src="https://github.com/user-attachments/assets/bbd04323-2fd0-4ddd-bff7-6142156c27c3" />
+<img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/3688ab3f-19dc-484d-82c7-4f03b03667cb" />
+
+
+
+---
+## Results
+Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
